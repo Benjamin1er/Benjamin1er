@@ -5,13 +5,14 @@ Actually learning React and NodeJS at Wild Code School
 <br>
 <br>
 
-## How to contact me ?
+## Contact
 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/benjamin-geron/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16814602/benjamin1er)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/benjaminjgeron/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/benjamin1er)
+[<img align="left" alt="codewars" src="https://shields.io/badge/-codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" />](https://twitter.com/benjamin1er)
 <br>
 <br>
 ## Expertise
