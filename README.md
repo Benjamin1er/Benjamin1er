@@ -1,5 +1,6 @@
 ## Who Am I ?
 I'm an ex-waiter in the middle of a retraining
+<br>
 Actually learning React and NodeJS at Wild Code School
 
 <br>
