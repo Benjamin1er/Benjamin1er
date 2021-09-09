@@ -23,9 +23,8 @@ Actually learning React and NodeJS at Wild Code School
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <br>
-<img align="right" alt="git"/>
+<img align="right" alt="git" src="https://shields.io/badge/-git-F05032?&style=for-the-badge&logo=git&logoColor=white"/>
 <img align="right" alt="git" src="https://shields.io/badge/-git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
-
 <img align="left" alt="github" src="https://shields.io/badge/-github-181717?&style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="visual-studio-code" src="https://shields.io/badge/-visual%20studio%20code-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="left" alt="postman" src="https://shields.io/badge/-postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white" />
