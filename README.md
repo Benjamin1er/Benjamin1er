@@ -26,6 +26,7 @@ Actually learning React and NodeJS at Wild Code School
 <img align="left" alt="html5" src="https://shields.io/badge/-git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="html5" src="https://shields.io/badge/-github-181717?&style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="html5" src="https://shields.io/badge/-visual%20studio%20code-007ACC?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<br>
 <img align="left" alt="html5" src="https://shields.io/badge/-postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white" />
 <img align="left" alt="html5" src="https://shields.io/badge/-slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white" />
 
