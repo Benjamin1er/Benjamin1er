@@ -6,7 +6,9 @@ Actually learning React and NodeJS at Wild Code School
 
 ## Projects
 ### Kokomo
-A cocktail site
+[Kokomo](https://wild-kokomo.netlify.app/) is a website created with React as our second project. It lists all the cocktails you can find in the
+CocktailDB API, and you can even sort them and search them by name.
+
 ### Starlove
 A dating site
 ### Wecode
