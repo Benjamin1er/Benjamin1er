@@ -3,7 +3,6 @@ I'm an ex-waiter in the middle of a retraining
 <br>
 Actually learning React and NodeJS at Wild Code School
 <br>
-<br>
 
 ## Projects
 ### Kokomo
