@@ -10,7 +10,8 @@ Actually learning React and NodeJS at Wild Code School
 [CocktailDB](https://www.thecocktaildb.com/) API, and you can even sort them and search them by name.
 
 ### Starlove
-A dating site
+[Coming soon]() was created during a 30 hours Hackathon with a team of 5 people. Don't get scared when you get there, decisions were made at a very late time of the night : wookies might pop from everywhere, maybe you'll find the proof Jar Jar is a sith lord, but it has been made with nothing else than love and fun.
+
 ### Wecode
 [Wecode](https://we-code.netlify.app/) is our first group project at Wild Code School, made with HTML and CSS only (actually there's some Javascript but nothing much to see)
 This website lists a few fields where programming is essential alongside all the languages used for a specific field and information about them.
