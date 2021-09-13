@@ -5,7 +5,17 @@ Actually learning React and NodeJS at Wild Code School
 
 <br>
 <br>
+## Projects
 
+### Kokomo
+
+### Starlove
+
+### Wecode
+
+
+<br>
+<br>
 ## Contact
 
 
