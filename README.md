@@ -8,7 +8,7 @@ Actually learning React and NodeJS at Wild Code School
 ## Projects
 
 
-
+Some text here
 
 
 <br>
