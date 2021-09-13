@@ -6,7 +6,8 @@ Actually learning React and NodeJS at Wild Code School
 <br>
 
 ## Projects
-All my projects
+### Kokomo
+A cocktail site
 <br>
 
 ## Contact
