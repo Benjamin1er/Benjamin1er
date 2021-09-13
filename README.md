@@ -5,14 +5,7 @@ Actually learning React and NodeJS at Wild Code School
 
 <br>
 <br>
-## Projects
 
-
-Some text here
-
-
-<br>
-<br>
 ## Contact
 
 
