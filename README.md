@@ -6,16 +6,9 @@ Actually learning React and NodeJS at Wild Code School
 <br>
 <br>
 ## Projects
-<br>
 
-### Kokomo
-<br>
 
-### Starlove
-<br>
 
-### Wecode
-<br>
 
 
 <br>
