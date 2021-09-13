@@ -7,6 +7,10 @@ Actually learning React and NodeJS at Wild Code School
 ## Projects
 ### Kokomo
 A cocktail site
+### Starlove
+A dating site
+### Wecode
+An information site
 <br>
 
 ## Contact
