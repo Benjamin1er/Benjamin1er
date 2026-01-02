@@ -11,16 +11,16 @@ I am a former freelancer with 2 years of experience building production-ready ap
 
 ### 🚀 Featured Freelance Projects
 
-#### [My Card Center]
+#### My Card Center
 - **Role:** Fullstack Developer (From scratch)
-- [cite_start]**Stack:** Angular, NestJS, Docker [cite: 43, 44]
-- [cite_start]**Key achievement:** Architected and deployed a complete business solution from the ground up, ensuring environment stability with Docker[cite: 42, 44].
+- **Stack:** Angular, NestJS, Docker
+- **Key achievement:** Architected and deployed a complete business solution from the ground up, ensuring environment stability with Docker
 
-#### [Vouloir Dire]
+#### Vouloir Dire
 - **Role:** Lead Developer (Modernization)
-- [cite_start]**Key achievements:** - Migrated state management to **Angular Signals** for reactive performance[cite: 48].
-  - [cite_start]Implemented **Server-Side Rendering (SSR)** for SEO optimization[cite: 49].
-  - [cite_start]Refactored core logic using the **Facade pattern** to improve maintainability[cite: 46, 47].
+- **Key achievements:** - Migrated state management to **Angular Signals** for reactive performance
+  - Implemented **Server-Side Rendering (SSR)** for SEO optimization
+  - Refactored core logic using the **Facade pattern** to improve maintainability
 
 ---
 
