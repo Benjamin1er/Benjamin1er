@@ -1,7 +1,7 @@
 # Hi there, I'm Benjamin Geron 👋
 **Fullstack Developer | Angular & Node.js Specialist**
 
-I am a former freelancer with 2 years of experience building production-ready applications. I focus on creating clean, maintainable code
+I am a former freelancer with 3 years of experience building production-ready applications. I focus on creating clean, maintainable code
 
 - 🛠 Currently working with: **Angular (Signals, SSR), NestJS, and Docker**.
 - 🏗 Architecture enthusiast: Love implementing **Facade patterns** and scalable backend structures.
